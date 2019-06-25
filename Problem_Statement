@@ -1,0 +1,18 @@
+
+The tenant Management system should be developed for automating the activities of the society who plan to live on their own.
+It should ensure efficient and easy living of the tenants within the society while enabling user friendly services and maintenance of complete database. 
+The information relevant to each tenant is:
+1)His personal data.
+2)The rent to be paid.
+3)The subscriptions availed(ie. Wifi, Electricity, water, Newspaper, etc.).
+
+It should provide the given functionalities:
+1)Register new tenant: The manager should be able to register any arbitrary new tenant and enter all his personal data, the apartment allotted, security fee deposited and the subscriptions allotted. 
+2)Modify/Delete ex-tenants data: The system should be modifiable That is that the manager should be able to remove tenants’ data who has left the apartment with a single click or modify it whenever a change is required.
+3)Tenant account log in: The tenant must be able to log in to his personal tenant account to view several details related to his apartment. That is the rent to be paid, the facilities available in the apartment, the queries list which he wants to get solved and contact information of the concerned people.
+4)Status of the problems: The tenant should be able to lodge his/her complaints and queries in the system and should be able to see the status of their problems if the concerned manager has seen their problems, the problem solving is in process or the problem has been solved.
+5)Check apartment vacancy: The manager should be able to check which room is vacant or which is not when booking a room or even for maintenance. 
+6)Calculate tenant’s total rent ie. rent communication: Total rent of the system that is the room rent plus the bills of all the subscriptions( electricity, water, wifi, food delivery, etc.) should be calculated and notified to the tenant through the manager
+
+
+
