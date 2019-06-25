@@ -1,0 +1,30 @@
+
+Title of the project:                               Tenant Management System
+Stakeholders involved in capturing requirements:    Manager, Apartment staff, Tenant, Cook, Parents
+Techniques used for requirement capturing:          Personal Interview and Brainstorming Sessions and FAST sessions.
+Name of Persons along with designations:            -
+Date:                                                August 2018
+Version:                                             1.0
+
+
+
+
+
+
+Consolidated list of Initial requirements:
+1)A system which can be run on the Apartment’s Wifi
+2)The System shall be able to generate login id and password for the Tenant and the Manager.
+3)The system should have proper validity checks and prompt error handling.
+4)There are three types of members in the system: Manager, Tenants and the staff.
+5)Administrator should be maintain details of all the apartments.
+6)Administrator should be maintain details of all the staff, tenants and facilities.
+7)The manager should be able to book apartment for the tenant.
+8)The manager should be able to cancel subscriptions for all the guests.
+9)The system shall calculate the total rent at the end of the month.
+10)The system shall be able to provide the availability of any particular apartment.
+11)The System should be able to generate reports like :
+12)Details of all the rooms in the apartments.
+  i) Type wise
+  ii) Occupancy wise
+            b) Details of all the tenants
+            c) Status of bill wherever applicable.
